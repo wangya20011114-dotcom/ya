@@ -1,0 +1,8 @@
+interface:
+  display_name: "Collage Studio"
+  short_description: "为数字媒体与产品交互作品集创建可追溯的视觉拼贴"
+  brand_color: "#2563EB"
+  default_prompt: "Use $collage-studio to analyze my references and create an evidence-aware portfolio collage."
+
+policy:
+  allow_implicit_invocation: true

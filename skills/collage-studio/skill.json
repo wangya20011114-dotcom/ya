@@ -1,0 +1,12 @@
+{
+  "name": "collage-studio",
+  "displayName": "Collage Studio",
+  "version": "1.0.0",
+  "source": "skills/collage-studio",
+  "status": "ready",
+  "stages": ["调研", "概念生成", "视觉发展", "作品集成册"],
+  "modes": ["moodboard", "research-collage", "portfolio-collage"],
+  "inputs": ["reference_images", "research_materials", "project_text", "target_format", "constraints"],
+  "outputs": ["style_analysis", "collage", "layout_map", "captions", "source_ledger"],
+  "evidenceLabels": ["verified_evidence", "design_inference", "generated_material", "unknown_source"]
+}
